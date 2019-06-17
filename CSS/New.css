@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 1170px;
+    margin: auto;
+}
+.header-top{
+    height: 100px;
+    text-align: center;
+    background: #272f54;
+}
+.header-top img{
+    max-width: 200px;
+    padding-top: 10px;
+}
+.main-menu{
+    background: #272f54;
+}
+.navbar{
+    margin-top: 5px;
+}
+.navbar form button{
+    color: white;
+}
+.nav-item:hover{
+    background: #ccc;
+}
+.main-menu ul li a {
+    color: white;
+    border-right:1px solid white;
+}
+.banner{
+    margin-top: 5px;  
+}
+.banner img{
+    width: 1110px;
+    height: 260px;
+}
+.news{
+    margin-top: 5px;
+}
+.news h5{
+    font-size: 20px;
+    color: #810303;   
+}
+.new p{
+    font-size: 16px;
+    color: #000;
+}
+.card{
+    border: 1px solid #cccccc;
+    background: #ccc;
+}
+.col-12 img{
+    padding: 20px;
+    height: 270px;
+}
+.col-6 img{
+    padding: 20px;
+}
+footer{
+    height: 50px;
+    background: #272f54;
+    text-align: center;
+}
+.coppyright{
+    color: #ccc;
+    padding-top: 13px;
+    margin: 7px;
+}
